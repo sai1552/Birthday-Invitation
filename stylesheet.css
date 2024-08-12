@@ -1,0 +1,35 @@
+body{
+    background-color: cyan;
+}
+
+.birth{
+    text-align: center;
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+#aus{
+    color:blue
+}
+
+.sec{
+    border: 5px;
+    margin: 10px;
+}
+
+.min{
+    color: green;
+}
+
+li{
+    color:rgb(145,10, 190);
+}
+
+.lolly{
+    color:blue;
+}
+
+li[value="4"]{
+    color: orangered;
+    text-transform: uppercase;
+}
